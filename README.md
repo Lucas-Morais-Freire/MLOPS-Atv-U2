@@ -1,5 +1,9 @@
 # Implementando uma CNN com `torchvision`
 
+## Apresentação em vídeo
+
+Assista este [vídeo](https://drive.google.com/file/d/1eYax-Y0QkGxtMENOwHANpslVb99wASGz/view?usp=sharing) para entender mais sobre este experimento.
+
 ## Proposta
 
 Uma Rede Neural Convolucional utiliza filtros bidimensionais para extrair _features_ a partir de imagens, que alimentarão pesos de uma rede neural. O objetivo da atividade é utilizar um dos datasets presentes na biblioteca `torchvision` para treinar uma CNN que irá classificar elementos do dataset FashionMNIST.
